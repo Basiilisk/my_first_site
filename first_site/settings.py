@@ -25,7 +25,11 @@ SECRET_KEY = 'o6ig^n^d1%_2a_gcg(npu31$d6y*58+ykx1sbp%f6cpwz0upzt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ["http://progbooks.pythonanywhere.com/"]
+=======
+ALLOWED_HOSTS = ['progbooks.pythonanywhere.com/']
+>>>>>>> 95cdc48fac771079406b1d2b83ebc21c880e8395
 
 
 # Application definition
